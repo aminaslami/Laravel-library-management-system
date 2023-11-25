@@ -49,8 +49,6 @@ password: password
 
 ## ScreenShots
 
-<img width="454" alt="Screenshot 2023-11-25 202437" src="https://github.com/aminaslami/Laravel-library-management-system/assets/101183453/9d3425db-76ae-4a39-850f-eb4ac7d618a9">
-
 <img src="Screenshots/lms (1).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (2).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (3).png" width="100%" /><br /> <br />
@@ -66,6 +64,7 @@ password: password
 <img src="Screenshots/lms (13).png" width="100%" /><br /> <br />
 
 Watch demo at tauseedzaman youtube channel https://youtube.com/channel/UCnJYN9jTfEnumvJUw4rhh9A
+For solve the error and create the database please watch this video https://www.youtube.com/watch?v=NNnV_YAbUFo&ab_channel=BERTDELASPEED
 
 ```
 Make sure to leave a start ✨✨

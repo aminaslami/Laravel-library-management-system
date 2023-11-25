@@ -45,9 +45,12 @@ credentails
 username: tauseedzaman
 password: password
 ```
-# That's all 🎊🎉 
+# That's all 
 
 ## ScreenShots
+
+<img width="454" alt="Screenshot 2023-11-25 202437" src="https://github.com/aminaslami/Laravel-library-management-system/assets/101183453/9d3425db-76ae-4a39-850f-eb4ac7d618a9">
+
 <img src="Screenshots/lms (1).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (2).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (3).png" width="100%" /><br /> <br />

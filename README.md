@@ -23,7 +23,12 @@ npm install && npm run dev
 ````
 create .env file
 ```
-cp (unix) or copy (Windows) .env.example .env
+Copy all  .env.example
+
+and create
+.env
+file after, paste all code in .env file
+
 ```
 generate env key
 ```

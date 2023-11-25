@@ -64,7 +64,9 @@ password: password
 <img src="Screenshots/lms (13).png" width="100%" /><br /> <br />
 
 Watch demo at tauseedzaman youtube channel https://youtube.com/channel/UCnJYN9jTfEnumvJUw4rhh9A
-For solve the error and create the database please watch this video https://www.youtube.com/watch?v=NNnV_YAbUFo&ab_channel=BERTDELASPEED
+```
+For solution error and create the database(DB) please watch this video https://www.youtube.com/watch?v=NNnV_YAbUFo&ab_channel=BERTDELASPEED
+```
 
 ```
 Make sure to leave a start ✨✨
